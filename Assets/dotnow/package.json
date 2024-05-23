@@ -1,0 +1,10 @@
+{
+    "name": "com.trivialinteractive.dotnowinterpreter",
+    "displayName":"dotnow Interpreter",
+    "description": "",
+    "version": "0.0.1",
+    "unity": "2022.3",
+"git-dependencies": {
+	"com.trivialinteractive.roslyncsharp": "git@github.com:atopia-space/atopia-shared-systems.git?path=/Assets/com-trivialinteractive-roslyncsharp#dev"
+}
+}
